@@ -6,9 +6,9 @@ body {
   margin: 0;
 }
 .header {
-  padding: 50px;
+  padding: 20px;
   text-align: center;
-  background: rgb(50, 172, 243);
+  background-image: url('../images/fon.png');
   color: white;
 }
 .navbar {
@@ -55,6 +55,7 @@ body {
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
+  text-align: center;
 }
 
 .ft-left, .ft-center, .ft-rigt {
